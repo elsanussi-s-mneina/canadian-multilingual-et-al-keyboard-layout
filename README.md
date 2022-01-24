@@ -14,22 +14,31 @@ https://languagegeek.com/lgwp/keyboards/installing-mac-keyboard-layouts/
 ## How to use this keyboard layout.
 ### Standard usage:
 ⇧ = shift
+
 ⇮ = option               
+
 ⇨ = option + shift + 2    (Note on PC this would be rightControl)
 
 ⇮Z = «
+
 ⇮X = »
+
 ⇮7 = {
+
 ⇮8 = }
+
 ⇮9 = [
+
 ⇮0 = ]
 
 ... 
 
 ⇨Q = ω
+
 ⇨⇧Q = Ω
 
 ... to do finish adding app standard shortcuts
+
 In the meantime please use this picture as a reference: https://upload.wikimedia.org/wikipedia/commons/5/55/KB_Canadian_Multilingual_Standard_comment-fr.svg
 
 
