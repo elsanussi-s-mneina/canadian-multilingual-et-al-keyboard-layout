@@ -5,6 +5,34 @@ https://upload.wikimedia.org/wikipedia/commons/5/55/KB_Canadian_Multilingual_Sta
 
 Note: due to the lack of a right control key on many keyboards, I have put the group 2 key as a dead key, option + shift + 2 (number row) .
 
+## How to install this keyboard layout.
+First download the .keylayout file from this page by clicking Code, and download zip.
+
+The rest of the instructions are similar to the following article at LanguageGeek website.
+https://languagegeek.com/lgwp/keyboards/installing-mac-keyboard-layouts/
+
+## How to use this keyboard layout.
+### Standard usage:
+⇧ = shift
+⇮ = option               
+⇨ = option + shift + 2    (Note on PC this would be rightControl)
+
+⇮Z = «
+⇮X = »
+⇮7 = {
+⇮8 = }
+⇮9 = [
+⇮0 = ]
+
+... 
+
+⇨Q = ω
+⇨⇧Q = Ω
+
+... to do finish adding app standard shortcuts
+In the meantime please use this picture as a reference: https://upload.wikimedia.org/wikipedia/commons/5/55/KB_Canadian_Multilingual_Standard_comment-fr.svg
+
+
 ## Understanding the structure of the Canadian Multilingual Standard Keyboard
 - plain keys on the keyboard can type one of 5 characters.
   - group 1, level 1
